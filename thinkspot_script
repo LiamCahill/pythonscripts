@@ -1,0 +1,42 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+
+
+PATH = "/Users/liamcahill/Developer/chromedriver"
+
+
+def navtosite():
+	username = input("What is your username?")
+	password = input("What is your password?")
+
+	time.sleep(1)
+
+
+	driver = webdriver.Chrome(PATH)
+	#driver.ChromeOptions("--no-sandbox")
+	driver.get("https://www.thinkspot.com/users/sign_in#moveup")
+
+	time.sleep(2)
+	
+	element = driver.find_element_by_id("user_email")
+	element.send_keys(username)
+	element = driver.find_element_by_id("user_password")
+	element.send_keys(password)
+
+	time.sleep(2)
+
+	element.send_keys(Keys.RETURN)
+
+	#element = driver.find_element_by_id("user_remember_me")
+	#element.click
+
+	#time.sleep(1)
+	#element = driver.find_element_by_class_name("submit-btn right")
+	#element.click
+
+	#need to pass email and password keys to login
+
+
+if __name__ == '__main__':
+	navtosite()
