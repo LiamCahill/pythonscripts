@@ -4,7 +4,7 @@ import time
 from selenium.webdriver.common.keys import Keys
 
 booklist = []
-PATH = "/Users/liamcahill/Developer/chromedriver"
+PATH = "."
 
 def nextBook():
 	file1 = open('bookList.txt','r')
@@ -14,7 +14,7 @@ def nextBook():
 		booklist.append(line.strip())
 	
 
-def bookSeach():
+def bookSearch():
 
 	driver = webdriver.Chrome(PATH)	
 	driver.get("https://www.amazon.com")
@@ -32,4 +32,4 @@ def bookSeach():
 
 if __name__ == '__main__':
 	nextBook()
-	bookSeach()
+	bookSearch()

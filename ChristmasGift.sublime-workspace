@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Regis",
+				"Regis_gift\tstatement"
+			],
+			[
+				"ge",
+				"getReceiver\tfunction"
+			],
+			[
+				"gi",
+				"giver"
+			],
+			[
+				"re",
+				"receiver"
+			],
+			[
+				"get",
+				"getPrice\tfunction"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"gift",
+				"gift_price\tparam"
+			],
+			[
+				"gif",
+				"gift_idea\tparam"
+			],
+			[
+				"print",
+				"print_gift"
+			],
+			[
+				"lo",
+				"location\tstatement"
+			],
+			[
+				"di",
+				"dict_keys"
+			],
+			[
+				"user",
+				"user_ids"
+			],
+			[
+				"Ch",
+				"ChromeOptions\tclass"
+			],
+			[
+				"find",
+				"find_elements_by_name\tfunction"
+			],
+			[
+				"sele",
+				"selenium\tmodule"
+			],
+			[
+				"click",
+				"clickBigCookie\tfunction"
+			],
+			[
+				"book",
+				"booklist\tstatement"
+			],
+			[
+				"rol",
+				"rolls\tstatement"
+			],
+			[
+				"dice",
+				"dice2\tstatement"
+			],
+			[
+				"rand",
+				"randint\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: main",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Snippet: Function"
+			],
+			[
+				"Package Control: remo\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/liamcahill/Desktop/startUp.py",
+		"/Users/liamcahill/Desktop/test.py",
+		"/Users/liamcahill/Developer/Python Scripts/practice_question.py",
+		"/Users/liamcahill/Developer/LeetCode/Add Two Numbers.py",
+		"/Users/liamcahill/Developer/Python Scripts/codecademy_OCT13.py",
+		"/Users/liamcahill/Developer/Shell Scripts/Untitled-1.sh",
+		"/Users/liamcahill/Developer/Shell Scripts/test1",
+		"/Users/liamcahill/Developer/Python Scripts/webdriver_template.py",
+		"/Users/liamcahill/Developer/Python Scripts/workNOW.py",
+		"/Users/liamcahill/Developer/Python Scripts/simple.py",
+		"/Users/liamcahill/Developer/Python Scripts/mac_changer.py",
+		"/Users/liamcahill/Developer/Java/ScannerDemo/src/Main.java",
+		"/Users/liamcahill/Developer/Python Scripts/time_test.py",
+		"/Users/liamcahill/Developer/Python Scripts/thinkspot_script",
+		"/Users/liamcahill/Developer/Python Scripts/cookieclicker crap.py",
+		"/Users/liamcahill/Developer/Python Scripts/GoodMorning",
+		"/Users/liamcahill/Developer/Python Scripts/bookList.txt",
+		"/Users/liamcahill/Developer/Python Scripts/webdriver_01.py",
+		"/Users/liamcahill/Developer/Python Scripts/practice.py",
+		"/Users/liamcahill/Developer/Python Scripts/demo.py",
+		"/Users/liamcahill/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/liamcahill/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/liamcahill/Developer/Python Scripts/name.py",
+		"/Users/liamcahill/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/Users/liamcahill/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/liamcahill/Python/everything.py",
+		"/Users/liamcahill/Desktop/webdriver_01.py",
+		"/Users/liamcahill/Dropbox/Professional/Resume Snipets",
+		"/Users/liamcahill/Documents/Coding/Python Practice/dictionaries and loops.py",
+		"/Users/liamcahill/Library/Application Support/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/Users/liamcahill/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/liamcahill/Library/Application Support/Sublime Text 3/Packages/User/Python 3.8 build",
+		"/Users/liamcahill/Desktop/first.py",
+		"/Users/liamcahill/Desktop/myfirst.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "ChristmasGift.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"print(\"Hello world!\")"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
